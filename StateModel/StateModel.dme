@@ -13,7 +13,7 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
+#include "Documentation.dm"
 #include "State.dm"
-#include "StateModel.dm"
 // END_INCLUDE
 
